@@ -1,6 +1,6 @@
 module another
 
-go 1.24
+go 1.24.1
 
 toolchain go1.21.4
 
